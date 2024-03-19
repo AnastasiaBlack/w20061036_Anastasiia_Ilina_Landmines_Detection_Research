@@ -3,7 +3,7 @@ This repository contains code used within the research project by Anastasiia Ili
 
 ### Colab run
 For the research project, the code was written and run within Colab environment with additional memory. 
-The Colab files can be found in this repository. 
+The Colab files can be found in this repository in 'colabCode' folder. 
 The same code in form of .py classes with 'main.py' class for local python run was rewritten and pushed to this repository as well.
 
 ### Local run
@@ -26,3 +26,6 @@ get_Yolov8_test_speed,
 yolo_detect_test_images,
 train_ssd,
 ssd_detect_images
+
+### Results
+The resulting detected bounding boxes (.txt files) and images with bounding boxes rectangles are located in the folder "finalResults" 
