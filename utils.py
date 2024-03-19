@@ -1,3 +1,7 @@
+"""
+    Author: Anastasiia Ilina w20061036, Northumbria University
+"""
+
 import xml.etree.ElementTree as ET
 import cv2
 import numpy as np

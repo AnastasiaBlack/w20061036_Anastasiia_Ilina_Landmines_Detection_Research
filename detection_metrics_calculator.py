@@ -1,5 +1,8 @@
-import os
+"""
+    Author: Anastasiia Ilina w20061036, Northumbria University
+"""
 
+import os
 
 # The code was written based on the work by He, K., Gkioxari, G., Dollár, P., & Girshick, R. (2020). "Mask R-CNN."
 # https://www.baeldung.com/cs/object-detection-intersection-vs-union

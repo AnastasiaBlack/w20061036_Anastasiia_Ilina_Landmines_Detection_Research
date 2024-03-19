@@ -1,3 +1,7 @@
+"""
+    Author: Anastasiia Ilina w20061036, Northumbria University
+"""
+
 from ultralytics import YOLO
 import time
 from PIL import Image

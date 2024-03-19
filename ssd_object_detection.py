@@ -1,3 +1,7 @@
+"""
+    Author: Anastasiia Ilina w20061036, Northumbria University
+"""
+
 import os
 import subprocess
 import re
